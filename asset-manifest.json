@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29f68a55.css",
-    "main.js": "/static/js/main.9fafa1a1.js",
+    "main.css": "/static/css/main.319ee6e4.css",
+    "main.js": "/static/js/main.aca1d257.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.b32f57c0.chunk.js": "/static/js/64.b32f57c0.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -19,17 +19,17 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/index.html",
-    "static/media/csharp.svg": "/static/media/csharp.04d9d2bb18b9781567f7.svg",
+    "static/media/icons8-c-sharp-logo.svg": "/static/media/icons8-c-sharp-logo.6a36066073346e3f6983.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.29f68a55.css.map": "/static/css/main.29f68a55.css.map",
-    "main.9fafa1a1.js.map": "/static/js/main.9fafa1a1.js.map",
+    "main.319ee6e4.css.map": "/static/css/main.319ee6e4.css.map",
+    "main.aca1d257.js.map": "/static/js/main.aca1d257.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.b32f57c0.chunk.js.map": "/static/js/64.b32f57c0.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.842dba89.chunk.js.map": "/static/js/769.842dba89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29f68a55.css",
-    "static/js/main.9fafa1a1.js"
+    "static/css/main.319ee6e4.css",
+    "static/js/main.aca1d257.js"
   ]
 }
